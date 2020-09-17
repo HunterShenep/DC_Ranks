@@ -1,0 +1,11 @@
+name: DCRANKS
+version: 1.0
+main: com.huntershenep.DCRANKS.Main
+description: DiamCraft's RANK plugin
+author: Hunter Shenep
+depend: [DCCORE]
+
+commands:
+    rank:
+        usage: /<command>
+        description: none
